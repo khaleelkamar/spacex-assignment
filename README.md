@@ -1,4 +1,4 @@
-###𝐐𝐮𝐢𝐜𝐤 𝐬𝐭𝐚𝐫𝐭
+### 𝐐𝐮𝐢𝐜𝐤 𝐬𝐭𝐚𝐫𝐭
 
 Clone the repo: git clone https://github.com/devias-io/material-kit-react.git
 
