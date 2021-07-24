@@ -1,6 +1,6 @@
-###Quick start
+###𝐐𝐮𝐢𝐜𝐤 𝐬𝐭𝐚𝐫𝐭
 
-Download from Github or Download from Devias or clone the repo: git clone https://github.com/devias-io/material-kit-react.git
+Clone the repo: git clone https://github.com/devias-io/material-kit-react.git
 
 Make sure your NodeJS and npm versions are up to date for React 17
 
